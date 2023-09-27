@@ -65,5 +65,5 @@ pyinstaller -w -F photo-organizer.py
 ```
 
 2. Add the keys on Registry or run *photo-organizer.reg*.
-3. Copy .exe file on *C:\Program Files\Photo Organizer*
-4. Add *C:\Program Files\Photo Organizer* in the *Path* on Windows Environment Variable.
+3. Copy .exe file on *C:\Program Files\Python Scripts\Photo Organizer*
+4. Add *C:\Program Files\Python Scripts\Photo Organizer* in the *Path* on Windows Environment Variable.
